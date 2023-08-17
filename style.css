@@ -1,0 +1,590 @@
+body
+{
+    background-color: #1b162e;
+}
+.navabar{
+   background:#1b162e;
+
+}
+.navbar-brand img{
+    height: 60px;
+    padding: 0 20px;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+.navbar-nav li a{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    float: right;
+}
+
+.nav-btn{
+    padding: 5px  20px !important; 
+    background: black;
+    color: #fff;
+    border: 2px solid !important;
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 14PX;
+    
+    
+    border-image: linear-gradient(to right, #33AFFC 0%, #981EFE 100%) !important ;
+    border-image-slice: 1 !important;
+    
+    
+    
+      
+    }
+.fa-bars{
+    color:#fff;
+    font-size: 30px;
+    outline: none;
+}
+#banner{
+    background: #1b162e;
+    padding-top: 5%;
+    color: #fff;
+}
+.text{
+    background: linear-gradient(90deg,#8E2DE2,#4A00E0);
+    font-size: 50px;
+    font-weight: 600;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 150px;
+
+}
+.headings{
+width: 632px;
+height: 240px;
+top: 403px;
+left: 62px;
+
+    font-family: Playfair Display;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    font-family: Jost;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 2px;
+    
+}
+@media only screen and (max-width: 600px) {
+    .headings {
+        width: 400px;
+        height: 240px;
+
+        font-size: 30px;
+        font-weight: 400;
+    }
+  }
+
+@media only screen and (max-width: 600px) {
+    .girl {
+        width: 400px;
+        height: 240px;
+      }
+  }
+
+nav{
+    border-bottom: 2px solid white;
+}
+.Getstarted-btn{
+    width: 165px;
+    margin: 10px;
+}
+.play-btn{
+    width: 40px;
+    margin: 20px;
+    
+}
+#services{
+    background: #1b162e;
+}
+.text{
+    background: linear-gradient(to right,#8E2DE2,#4A00E0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.navbar{
+    background: #1b162e;
+}
+.navbar-brand{
+    font-size: 20PX;
+    font-weight: 200;
+    color: #fff;
+    
+}
+.card-body{
+    background: #1b162e;
+    color: #fff;
+}
+.card{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.text {
+    background: linear-gradient(to left,#8E2DE2,#4A00E0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+
+}
+.heading1{
+    font-family: Playfair Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    
+
+}
+.heading2{
+    font-family: Playfair Display;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 384px;
+height: 67px;
+top: 4882px;
+left: 86px;
+color: #fff;
+
+    
+}
+.heading3{
+   
+    font-family: Jost;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+
+    
+}
+.read{
+    width: 30%;
+}
+.users{
+   width: 100%;
+   margin-top: 100px;
+}
+.heading5{
+    font-family: Playfair Display;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: center;
+}    
+.images{
+    margin-top: 10%;
+}
+.images2{
+    margin-top: 10%;
+    
+}
+.images3{
+    margin-top: 10%;
+}
+
+.heading8{
+    font-size: 22px;
+    font-weight: 200;
+}
+.notification{
+    margin-top: 40%;
+    margin-left: 60px;
+}
+#bottom-navbar{
+
+    margin-top: 15%;
+   
+}
+.bottom-img{
+    width: 100%;
+    
+}
+.banner-img{
+    width:100%;
+    padding-top: 30%;
+}
+.subscribe-img{
+    margin-top: 8%;
+    width: 90%;
+    margin-left: 20px;
+}
+.btn-secondary{
+    background: linear-gradient(to left,#8E2DE2,#4A00E0);
+    width: 30%;
+    height: 60px;
+    font-size: 16px;
+   
+border: none;
+}
+.card-title{
+    font-size: 14px;
+  
+}
+
+.title1{
+    background: linear-gradient(to left,#8E2DE2,#12c2e9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left: 10px;
+
+}
+.card-text{
+    font-size: 16px;
+}
+
+.btn-success{
+    width: 170px;
+height: 80px;
+top: 770px;
+left: 62px;
+border-radius: 10px;
+text-transform: uppercase;
+
+background: linear-gradient(#33AFFC,#981EFE);
+
+
+
+
+    
+}
+.career{
+     
+    background: linear-gradient(269.24deg, #0096FF 0%, #981EFE 99.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.title0{
+  
+
+    font-family: Leckerli One;
+    padding-top: 30%;
+    font-weight: 600;
+    font-size: 40px;
+    
+    
+    background: linear-gradient(269.24deg, #0096FF 0%, #981EFE 99.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.heading0{
+ 
+padding-top: 20px;
+
+    font-family: Jost;
+font-size: 16px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.learn{
+    color: #fff;
+}
+
+
+
+.choose{
+    font-family: Leckerli One;
+font-size: 50px;
+font-weight: 400;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+ 
+background: linear-gradient(269.24deg, #0096FF 0%, #981EFE 99.67%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-left: 30%;
+padding-top: 29%;
+
+}
+
+
+
+.graphic{
+    font-family: Playfair Display;
+font-size: 30px;
+font-weight: 800;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: left;
+margin-left:30% ;
+
+}
+.glad{
+    font-family: Jost;
+font-size: 22px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 30%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .choose{
+       margin-left: 5px;
+    }
+    .graphic
+    {
+        margin-left: 5px;
+    }
+
+    .glad
+    {
+        margin-left: 5px;
+    }
+  }
+
+
+
+.user{
+    padding: 5%;
+    margin-left: 20%;
+}
+.name{
+   margin-top: -15%;
+   margin-left: 40%;
+   font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+
+letter-spacing: 0em;
+
+}
+.signature{
+    margin-top: -18%;
+    margin-left: 65%;
+}
+
+@media only screen and (max-width: 600px) {
+    .user {
+        padding: 1%;
+        margin-left: -3%;
+    }
+    .name
+    {
+       
+        margin-left: 16%;
+    }
+    .signature
+    {
+       
+        margin-left: 45%;
+        margin-bottom: 16px;
+    }
+  }
+
+.courses{
+   margin-top: 10%;
+ 
+   font-family: Leckerli One;
+font-size: 50px;
+font-weight: 400;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(267.26deg, #0096FF 0%, #981EFE 98.91%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+.popular{
+    font-family: Playfair Display;
+font-size: 40px;
+font-weight: 600;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.allcases{
+    font-family: Jost;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0.05em;
+text-align: left;
+background: linear-gradient(267.26deg, #0096FF 0%, #981EFE 98.91%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.featured{
+    font-family: Jost;
+font-size: 18px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0.05em;
+text-align: left;
+
+}
+.trending{
+    font-family: Jost;
+font-size: 18px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0.05em;
+text-align: left;
+
+}
+.popularity{
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    text-align: left;
+
+}
+.Access{
+    font-family: Leckerli One;
+font-size: 40px;
+font-weight: 400;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+background: linear-gradient(258.85deg, #0096FF 0%, #981EFE 96.04%);
+
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.blog{
+    font-family: Leckerli One;
+font-size: 40px;
+font-weight: 400;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+background: linear-gradient(258.85deg, #0096FF 0%, #981EFE 96.04%);
+
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.lets{
+    font-family: Leckerli One;
+font-size: 40px;
+font-weight: 400;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(258.85deg, #0096FF 0%, #981EFE 96.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+.heading7{
+    font-family: Playfair Display;
+font-size: 40px;
+font-weight: 800;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.support{
+    background: linear-gradient(258.85deg, #0096FF 0%, #981EFE 96.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.heading8{
+    font-family: Jost;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 60px;
+
+}
+.test{
+    font-family: Leckerli One;
+font-size: 50px;
+font-weight: 400;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+background: linear-gradient(258.85deg, #0096FF 0%, #981EFE 96.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+width: 272px;
+height: 67px;
+top: 4805px;
+left: 86px;
+
+
+}
+.all{
+    margin-bottom: 75px;
+}
+.feedback{
+    margin-left: 30%;
+    margin-bottom: 60px;
+
+}
+.subscribe-input
+{
+    height: 80px;
+    width: 453px;
+    border: 3px solid #0096FF;
+    border-radius: 4px;
+}
+.subscribe-btn
+{
+    height: 80px;
+    width: 200px;
+    border:3px solid #0096FF;
+    background: linear-gradient(to right,  #8130fe, #0096FF );
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+@media only screen and (max-width: 600px) {
+    .feedback {
+        margin-left: 1%
+    }
+    .card 
+    {
+        margin-left: 10%;
+    }
+   }
+  
+   hr
+   {
+    border-color: white;
+   }
+  
+
