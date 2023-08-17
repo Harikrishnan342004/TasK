@@ -572,6 +572,12 @@ left: 86px;
     color: #fff;
     font-weight: 600;
 }
+.Copyrights_para
+{
+    color: white;
+    text-align: right;
+    margin-left: 300px;
+}
 @media only screen and (max-width: 600px) {
     .feedback {
         margin-left: 1%
@@ -580,11 +586,19 @@ left: 86px;
     {
         margin-left: 10%;
     }
+    .Copyrights_para
+   {
+    margin-left: 60px;
+   }
+
    }
   
    hr
    {
     border-color: white;
    }
+  
+
+
   
 
