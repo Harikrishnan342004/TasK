@@ -438,3 +438,14 @@ margin-bottom: 200px;
     margin-left: 20%;
     margin-top: 8%;
 }
+.Copyrights_para
+{
+    color: white;
+    text-align: right;
+    margin-left: 300px;
+}
+
+hr
+{
+ border-color: white;
+}
